@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SAGAR TRANSPORT</string>
+
+    <string-array name="city">
+        <item>Mumbai</item>
+        <item>Thane</item>
+        <item>Navi Mumbai</item>
+        <item>Pune</item>
+        <item>Nashik</item>
+        <item>Kolhapur</item>
+    </string-array>
+</resources>
